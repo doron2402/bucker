@@ -18,7 +18,7 @@
   "dependencies": {
     "colors": "~0.6.0",
     "mkdirp": "~0.3.5",
-    "moment": "~2.1.0",
+    "moment": "~2.19.3",
     "nodemailer": "~0.5.2",
     "redis": "^0.12.1"
   },
